@@ -10,4 +10,11 @@ https://countriesnow.space/api/v0.1/c...
 https://documenter.getpostman.com/vie...
 
 
+# outputs
+ ![image](https://github.com/saitejesh12345/RestTemplate2-using-getForObject/assets/108732167/e6a30a07-614a-4e36-85f1-b8215498fa5c)
+
+
+![image](https://github.com/saitejesh12345/RestTemplate2-using-getForObject/assets/108732167/0144ec38-d8e9-4e5c-9072-e1405b9433f2)
+
+
 **Project Video : https://youtu.be/fQxCuSpc3PY**
